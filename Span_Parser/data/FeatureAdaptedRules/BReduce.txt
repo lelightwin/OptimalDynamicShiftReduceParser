@@ -1,0 +1,42 @@
+s0c_s0t
+s0c_s0w
+s1c_s1t L.s1c_s1t 
+s1c_s1w L.s1c_s1w
+s2c_s2t L.s2c_s2t
+s2c_s2w L.s2c_s2w
+s3c_s3t L.s3c_s3t
+s3c_s3w L.s3c_s3w
+N0t_N0w R.N0t_N0w
+N1t_N1w R.N1t_N1w
+N2t_N2w R.N2t_N2w
+N3t_N3w R.N3t_N3w
+s0lc_s0lw L.s0c_s0w
+s0rc_s0rw R.s0c_s0w
+s0uc_s0uw
+s1lc_s1lw L.s1lc_s1lw
+s1rc_s1rw L.s1rc_s1rw
+s1uc_s1uw L.s1uc_s1uw
+s1w_s0w L.s1w_s0w null
+s0c_s1w
+s1c_s0w L.s1c_s0w null
+s1c_s0c
+s0w_N0w L.s1w_N0w R.s0w_N0w
+N0t_s0w R.N0t_s1w R.N0t_s0w
+s0c_N0w
+N0t_s0c
+N0w_N1w R.N0w_N1w
+N1t_N0w R.N1t_N0w
+N0t_N1w R.N0t_N1w
+N0t_N1t R.N0t_N1t
+s1w_N0w
+N0t_s1w
+s1c_N0w
+s1c_N0t
+s0c_s1c_s2c
+s1c_s2c_s0w
+s0c_s2c_s1w
+s0c_s1c_s2w
+s0c_s1c_N0t
+s1c_N0t_s0w
+s0c_N0t_s1w
+s0c_s1c_N0w

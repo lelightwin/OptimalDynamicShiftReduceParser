@@ -1,0 +1,29 @@
+complete:
+- RuleManager (error)
+- Rule
+- WinTreeBankReader
+- HashMatrix, WeightVector(Train)
+- Sentence
+- DPPoint
+- Feature
+- Features
+- DPState (elements)
+- FeatureExtractor
+- Oracle
+- DPState (full)
+- Perceptron(Train)
+- Decoder(train)
+
+continue:
+- fixing bug: 
+	+ manually decoding (done)
+	+ deterministic decoder
+- Perceptron(perform)
+- WeightVector(perform)
+- Decoder(perform)
+- Parser
+- The whole system with simplified feature template
+- DP programming for parser (27/12)
+- BFSDecoder (30/12)
+- A* decoder (30/12-05/01)
+- Continue writing paper (15/01)

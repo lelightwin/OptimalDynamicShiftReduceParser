@@ -1,0 +1,14 @@
+• the shift action can only be performed when the queue of incoming words is not empty; (done)
+
+• when the node on top of the stack is temporary and its head word is from the right child, no shift action can be performed; (done)
+
+• the unary reduce actions can be performed only when the stack is not empty; (done)
+
+• the binary reduce actions can only be performed when the stack contains at least two nodes, with at least one of the two nodes on top of stack (with R being the topmost and L being the second) being non-temporary; (done)
+
+• the terminate action can be performed when the queue is empty, and the stack size is one. (done)
+
+• when the incoming queue is empty and the stack contains only two nodes, binary reduce can be applied only if the resulting node is non-temporary;
+• when the stack contains only two nodes, temporary resulting nodes from binary reduce must be left-headed;
+• when the queue is empty and the stack contains more than two nodes, with the third node from the top being temporary, binary reduce can be applied only if the resulting node is non-temporary;
+• when the stack contains more than two nodes, with the third node from the top being temporary, temporary resulting nodes from binary reduce must be left-headed;

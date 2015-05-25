@@ -1,0 +1,13 @@
+s0c_s0t
+s0c_s0w
+s0uc_s0uw s0c_s0w
+s0c_s1w
+s1c_s0c
+s0c_N0w
+N0t_s0c
+s0c_s1c_s2c
+s0c_s2c_s1w
+s0c_s1c_s2w
+s0c_s1c_N0t
+s0c_N0t_s1w
+s0c_s1c_N0w
